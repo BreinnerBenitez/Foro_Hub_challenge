@@ -1,4 +1,4 @@
-# 🚀 Proyecto API - Foro Hub - Grupo 7 
+# 🚀 Proyecto API 
 
 **Creado por:**  Breinner Benitez
 
