@@ -2,7 +2,7 @@
 
 **Creado por:**  Breinner Benitez
 
-![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Badge-Spring.png) 
+![Captura de pantalla de mostrarDatos.jsp](img/Badge-Spring.png) 
 
 ## 🛠 Tecnologías Utilizadas
 
