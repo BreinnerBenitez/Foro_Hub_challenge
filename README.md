@@ -2,6 +2,8 @@
 
 **Creado por:**  Breinner Benitez
 
+![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Json.JPG) 
+
 ## 🛠 Tecnologías Utilizadas
 
 - **Lenguaje**: Java 17 ☕
